@@ -1,1 +1,2 @@
-# Class-24-Geologist-project
+# Geologist
+Geologist Project
